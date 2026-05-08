@@ -1,0 +1,4 @@
+{
+  "tests/backend/test_auth.py": true,
+  "tests/backend/test_food.py": true
+}

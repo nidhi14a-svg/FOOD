@@ -1,0 +1,7 @@
+[
+  "tests/backend/test_auth.py::test_password_hash_and_verify",
+  "tests/backend/test_auth.py::test_register_duplicate_email",
+  "tests/backend/test_food.py::test_add_food_endpoint",
+  "tests/backend/test_food.py::test_priority_score_caps_by_quantity",
+  "tests/backend/test_food.py::test_priority_score_uses_expiry"
+]
